@@ -26,13 +26,13 @@
 
 ### :alien: About Me :
 
-I am a professional cs go player :video_game: from Moscow. 	:ringed_planet:
+𝓘 𝓪𝓶 𝓪 𝓹𝓻𝓸𝓯𝓮𝓼𝓼𝓲𝓸𝓷𝓪𝓵 𝓬𝓼 𝓰𝓸 𝓹𝓵𝓪𝔂𝓮𝓻 :video_game: 𝓯𝓻𝓸𝓶 𝓜𝓸𝓼𝓬𝓸𝔀 	:ringed_planet:
 
 - :zap: 𝙄 𝙖𝙢 19 𝙮.𝙤 (30.03.2003)
 
-- :bar_chart: I train 10 hours a day.
+- :bar_chart: 𝕀 𝕥𝕣𝕒𝕚𝕟 𝟙𝟘 𝕙𝕠𝕦𝕣𝕤 𝕒 𝕕𝕒𝕪.
 
-- :joystick: I stream every day.
+- :joystick: 𝘐 𝘴𝘵𝘳𝘦𝘢𝘮 𝘦𝘷𝘦𝘳𝘺 𝘥𝘢𝘺.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
