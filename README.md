@@ -2,7 +2,10 @@
   <img src="https://media.giphy.com/media/QuxqWk7m9ffxyfoa0a/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
-  
+  <a href="https://vk.com/tyomazay08">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
   <a href="https://www.youtube.com">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -14,7 +17,6 @@ Follow me
 <div id="viewprof" align="center">
   <img src="https://komarev.com/ghpvc/?username= gannibal1&style=flat-square&color=blue" alt=""/>
   
-
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -49,3 +51,11 @@ Follow me
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gannibal1&theme=halloween&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gannibal1)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
+
+
+---
+### 🏆 Github Profile Trophy :
+[![trophy](https://github-profile-trophy.vercel.app/?username=gannibal1)](https://github.com/ryo-ma/github-profile-trophy)
