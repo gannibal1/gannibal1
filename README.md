@@ -52,7 +52,7 @@ Follow me
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gannibal1)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gannibal1&theme=solarized_dark)
 
 
 
